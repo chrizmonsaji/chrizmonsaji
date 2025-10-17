@@ -1,10 +1,10 @@
 <!-- 
-  TERMINAL-STYLE INTRO (via SVG) 
-  Inspired by hacker terminals & Linux CLI aesthetics
+  TERMINAL-STYLE INTRO (via SVG)
+  Green-on-black hacker terminal vibe
 -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=600&lines=Welcome+to+MISTER+CHRIS%27s+Digital+Realm;Ethical+Hacker+%7C+Cloud+Builder+%7C+AI+Tinkerer;Stay+curious.+Build+securely.+Defend+relentlessly." alt="Typing SVG" />
-</p>
+<tool_call>
+{"name": "search_image", "arguments": {"prompt": "Typing SVG"}}
+</tool_call>
 
 # 👋 Hey there, I'm MISTER CHRIS  
 ### **Cyber Forensics & Cyber Security Student (2025–2028)**  
@@ -20,33 +20,70 @@
 
 > “Stay curious, keep building, and protect what you create.”
 
-I break things to make them stronger. Whether I’m penetration testing a lab environment, hardening cloud infrastructure, or scripting defensive automation tools—I live at the intersection of **offense and defense**.
+Linux enthusiast. Ethical hacker in training. Web dev learner (frontend + backend). Community builder.  
+I automate, analyze, and occasionally break things—**responsibly**—to understand how to defend them better.
 
 ---
 
-### 🔍 Ethical Hacking & Security Focus
+### 📚 Currently Learning
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,python,bash,linux,aws,oracle)](https://skillicons.dev)
 
-- **Hands-on pentesting**: Practicing reconnaissance, vulnerability scanning, and exploit development in controlled labs.
-- **Defensive scripting**: Automating log analysis, file integrity checks, and anomaly detection with Python & Bash.
-- **Secure cloud design**: Implementing least-privilege IAM policies, encrypted storage, and network segmentation on **Oracle Cloud** and **AWS**.
-- **Digital forensics**: Analyzing disk images, memory dumps, and network artifacts as part of academic labs and CTF challenges.
+- **Backend**: REST APIs with Node.js, Express, and secure authentication patterns  
+- **Frontend**: Responsive PWA design, service workers, offline-first strategies  
+- **Cloud Security**: Hardening OCI & AWS deployments with Terraform (learning)  
+- **Forensics**: Memory & disk analysis using Volatility, Autopsy, and Sleuth Kit  
+
+---
+
+### 🔍 Ethical Hacking & Security Projects
+
+- **🔐 DigiSpark (ATtiny85) Brute-Force Tool**  
+  A completed hardware-based project using the **DigiSpark microcontroller** to simulate keyboard input for educational password brute-force demonstrations (on authorized systems only).
+
+- **🛡️ Defensive Automation**  
+  Bash & Python scripts for log monitoring, file integrity checks, and system hardening on Linux.
+
+- **📡 Network & Forensics Labs**  
+  Practicing traffic analysis (Wireshark), memory forensics (Volatility), and disk imaging in controlled environments.
+
+> 🧪 *CTF write-ups & lab notes coming soon!*  
+> *(Follow my [YouTube](https://youtube.com/@chrizmonsaji) for live walkthroughs)*
 
 ---
 
 ### 🚀 Current Projects
 
+- **📅 College Timetable PWA**  
+  A lightweight, **offline-capable Progressive Web App** for students to manage their class schedules.  
+  🔗 [timetable-6zd.pages.dev](https://timetable-6zd.pages.dev/) | Built with HTML, CSS, JavaScript
+
 - **🏰 Sky Realms SMP**  
-  A community-driven **Minecraft Bedrock** server with custom anti-cheat logic, player behavior logging, and automated backups—built with security and fairness in mind.  
-  🔗 [Join the Discord](https://discord.gg/d2NDkmbYPp)
+  Modded Minecraft Bedrock server with custom anti-cheat logic and player analytics.
 
-- **🤖 KIRA AI Assistant**  
-  My privacy-first smart home AI. Processes voice commands locally where possible, uses encrypted APIs, and includes basic intrusion alerts for my homelab.
+- **☁️ Oracle Cloud + AWS Labs**  
+  Securing VMs, VPCs, and serverless functions with least-privilege principles and automated checks.
 
-- **⚙️ Bedrock Essentials Pack**  
-  Open-source server modules for Minecraft admins—featuring command sanitization, permission hardening, and activity auditing.
+- **🌐 Web Development Journey**  
+  Building small, security-aware tools while mastering full-stack fundamentals.
 
-- **☁️ Oracle Cloud Security Labs**  
-  Deploying and securing VMs, VCNs, and autonomous databases on **OCI**, with custom scripts for continuous configuration monitoring.
+---
+
+### 🌐 Community Building
+
+I believe tech thrives in community. That’s why I founded:
+
+- **🛠️ Sky Tech & Crafts**  
+  A growing Discord space for students, hobbyists, and builders to share ideas in **cybersecurity, Linux, cloud, Minecraft modding, and hardware projects**.  
+  🔗 [Join Sky Tech & Crafts](https://discord.gg/d2NDkmbYPp)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chrizmonsaji&show_icons=true&theme=dark&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrizmonsaji&layout=compact&theme=dark&langs_count=6" />
+</div>
 
 ---
 
@@ -55,20 +92,21 @@ I break things to make them stronger. Whether I’m penetration testing a lab en
 | Category        | Tools & Technologies |
 |-----------------|----------------------|
 | **Languages**   | `Python`, `JavaScript`, `Bash`, `HTML/CSS` |
-| **Security**    | `Nmap`, `Wireshark`, `Metasploit (labs)`, `Volatility`, `Autopsy`, `John the Ripper` |
-| **Cloud**       | `Oracle Cloud (OCI)`, `AWS`, `IAM`, `VPC/VCN`, `Serverless Functions` |
-| **OS / Env**    | `Linux Lite`, `Windows Subsystem for Linux (WSL)` |
-| **Automation**  | Cron, Bash pipelines, Python scripts, GitHub Actions (learning) |
+| **Security**    | `Nmap`, `Wireshark`, `John the Ripper`, `Metasploit (labs)`, `DigiSpark` |
+| **Hardware**    | `ATtiny85`, `DigiSpark`, USB HID experiments |
+| **Cloud**       | `Oracle Cloud (OCI)`, `AWS`, `IAM`, `VPC/VCN` |
+| **Web Dev**     | `Vanilla JS`, `Node.js`, `PWA`, `Cloudflare Pages` |
+| **OS**          | `Linux Lite` (daily driver), `WSL` |
 
 ---
 
-### 🌐 Connect With Me
+### 📬 Connect With Me
 
-Let’s collaborate on security, cloud, automation, or even Minecraft modding!
+Let’s collaborate, share knowledge, or just geek out over Linux and low-level hardware!
 
 📧 **Email**: [chrizmonsaji@gmail.com](mailto:chrizmonsaji@gmail.com)  
 🎮 **Discord**: [@chriz__3656](https://discord.com/users/chriz__3656)  
-🔗 **Official Discord Server**: [discord.gg/d2NDkmbYPp](https://discord.gg/d2NDkmbYPp)  
+🔗 **Sky Tech & Crafts**: [discord.gg/d2NDkmbYPp](https://discord.gg/d2NDkmbYPp)  
 📸 **Instagram**: [@chriz__3656](https://www.instagram.com/chriz__3656?igsh=NTk4cWFsaDdzaHNj)  
 📺 **YouTube**: [@chrizmonsaji](https://youtube.com/@chrizmonsaji)  
 💼 **LinkedIn**: [in/chrizmonsaji](https://linkedin.com/in/chrizmonsaji)
@@ -79,5 +117,5 @@ Let’s collaborate on security, cloud, automation, or even Minecraft modding!
   <img src="https://komarev.com/ghpvc/?username=chrizmonsaji&color=green&style=flat" alt="Profile views" />
 </div>
 
-💡 *Committed to ethical hacking, open collaboration, and building systems that are as secure as they are innovative.*  
-🔐 *All projects follow responsible disclosure and educational-use principles.*
+💡 *Building with purpose. Learning in public. Securing by design.*  
+🔐 *All security work is ethical, authorized, and education-focused.*
