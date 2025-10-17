@@ -1,13 +1,11 @@
 <!-- 
-  TERMINAL-STYLE INTRO (via SVG)
-  Green-on-black hacker terminal vibe
+  ✨ TERMINAL-STYLE TYPING ANIMATION (Working SVG)
+  Generated via: https://readme-typing-svg.demolab.com
 -->
-<tool_call>
-{"name": "search_image", "arguments": {"prompt": "Typing SVG"}}
-</tool_call>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=600&lines=Welcome+to+MISTER+CHRIS%27s+Digital+Realm;Ethical+Hacker+%7C+Linux+Enthusiast;Cloud+Builder+%7C+Community+Leader;Stay+Curious.+Build+Securely.+Defend+Relentlessly." alt="Typing SVG" />
 
 # 👋 Hey there, I'm MISTER CHRIS  
-### **Cyber Forensics & Cyber Security Student (2025–2028)**  
+### 🎓 Cyber Forensics & Cyber Security Student (2025–2028)
 
 [![Linux](https://img.shields.io/badge/OS-Linux_Lite-0078D7?logo=linux&logoColor=white)](https://www.linuxliteos.com/)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://python.org)
@@ -17,68 +15,73 @@
 [![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-000000?logo=oracle&logoColor=red)](https://cloud.oracle.com)
 [![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)](https://aws.amazon.com)
 [![Discord](https://img.shields.io/badge/Discord-%40chriz__3656-5865F2?logo=discord&logoColor=white)](https://discord.com/users/chriz__3656)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://youtube.com/@chrizmonsaji)
 
 > “Stay curious, keep building, and protect what you create.”
 
-Linux enthusiast. Ethical hacker in training. Web dev learner (frontend + backend). Community builder.  
-I automate, analyze, and occasionally break things—**responsibly**—to understand how to defend them better.
+I’m a hands-on builder who believes **security starts with understanding**. Whether I’m scripting automation tools, hardening cloud environments, or teaching others in my community — I blend curiosity with responsibility.
 
 ---
 
-### 📚 Currently Learning
+## 📚 Currently Learning
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,python,bash,linux,aws,oracle)](https://skillicons.dev)
 
-- **Backend**: REST APIs with Node.js, Express, and secure authentication patterns  
-- **Frontend**: Responsive PWA design, service workers, offline-first strategies  
-- **Cloud Security**: Hardening OCI & AWS deployments with Terraform (learning)  
-- **Forensics**: Memory & disk analysis using Volatility, Autopsy, and Sleuth Kit  
+- **Full-Stack Web Dev**: Frontend (HTML/CSS/JS) + Backend (Node.js, REST APIs)
+- **Cloud Security**: Securing OCI & AWS with IAM, VPCs, and encrypted storage
+- **Digital Forensics**: Memory & disk analysis using Volatility and Autopsy
+- **PWA Development**: Building offline-first, installable web apps
 
 ---
 
-### 🔍 Ethical Hacking & Security Projects
+## 🔍 Ethical Hacking & Security Projects
 
-- **🔐 DigiSpark (ATtiny85) Brute-Force Tool**  
-  A completed hardware-based project using the **DigiSpark microcontroller** to simulate keyboard input for educational password brute-force demonstrations (on authorized systems only).
+### 🔐 DigiSpark (ATtiny85) Brute-Force Tool  
+A hardware-based educational project using the **DigiSpark microcontroller** to simulate USB keyboard input for authorized password strength testing. Built with C++ and Digispark libraries.
 
-- **🛡️ Defensive Automation**  
-  Bash & Python scripts for log monitoring, file integrity checks, and system hardening on Linux.
+### 🛡️ Linux Defense Scripts  
+Custom Bash & Python tools for:
+- File integrity monitoring  
+- Log anomaly detection  
+- Automated system hardening on Linux Lite
 
-- **📡 Network & Forensics Labs**  
-  Practicing traffic analysis (Wireshark), memory forensics (Volatility), and disk imaging in controlled environments.
+### 📡 Network & Forensics Labs  
+Practicing ethical reconnaissance, traffic analysis (Wireshark), and memory forensics in isolated environments.
 
-> 🧪 *CTF write-ups & lab notes coming soon!*  
-> *(Follow my [YouTube](https://youtube.com/@chrizmonsaji) for live walkthroughs)*
-
----
-
-### 🚀 Current Projects
-
-- **📅 College Timetable PWA**  
-  A lightweight, **offline-capable Progressive Web App** for students to manage their class schedules.  
-  🔗 [timetable-6zd.pages.dev](https://timetable-6zd.pages.dev/) | Built with HTML, CSS, JavaScript
-
-- **🏰 Sky Realms SMP**  
-  Modded Minecraft Bedrock server with custom anti-cheat logic and player analytics.
-
-- **☁️ Oracle Cloud + AWS Labs**  
-  Securing VMs, VPCs, and serverless functions with least-privilege principles and automated checks.
-
-- **🌐 Web Development Journey**  
-  Building small, security-aware tools while mastering full-stack fundamentals.
+> 🧪 *CTF write-ups coming soon!*  
+> ▶️ [Watch my labs on YouTube](https://youtube.com/@chrizmonsaji)
 
 ---
 
-### 🌐 Community Building
+## 🚀 Current Projects
 
-I believe tech thrives in community. That’s why I founded:
+### 📅 [College Timetable PWA](https://timetable-6zd.pages.dev/)  
+A lightweight, **offline-capable Progressive Web App** for students.  
+✅ Installable on mobile/desktop  
+✅ Works without internet  
+✅ Built with vanilla HTML, CSS, and JavaScript  
 
-- **🛠️ Sky Tech & Crafts**  
-  A growing Discord space for students, hobbyists, and builders to share ideas in **cybersecurity, Linux, cloud, Minecraft modding, and hardware projects**.  
-  🔗 [Join Sky Tech & Crafts](https://discord.gg/d2NDkmbYPp)
+### 🏰 Sky Realms SMP  
+A modded **Minecraft Bedrock** community server featuring custom anti-cheat logic, player analytics, and automated moderation.
+
+### ☁️ Cloud Security Labs  
+Deploying and securing infrastructure on **Oracle Cloud** and **AWS**, with focus on least-privilege access and encrypted data flows.
 
 ---
 
-### 📊 GitHub Stats
+## 🌐 Community Building
+
+I founded **[Sky Tech & Crafts](https://discord.gg/d2NDkmbYPp)** — a Discord community for students and builders passionate about:
+- Cybersecurity & ethical hacking  
+- Linux & open-source tools  
+- Cloud computing & automation  
+- Minecraft modding & hardware tinkering  
+
+👉 **Join us**: [discord.gg/d2NDkmbYPp](https://discord.gg/d2NDkmbYPp)
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chrizmonsaji&show_icons=true&theme=dark&count_private=true&include_all_commits=true" />
@@ -87,7 +90,7 @@ I believe tech thrives in community. That’s why I founded:
 
 ---
 
-### 🧠 Tech Stack
+## 🧠 Tech Stack
 
 | Category        | Tools & Technologies |
 |-----------------|----------------------|
@@ -100,7 +103,7 @@ I believe tech thrives in community. That’s why I founded:
 
 ---
 
-### 📬 Connect With Me
+## 📬 Connect With Me
 
 Let’s collaborate, share knowledge, or just geek out over Linux and low-level hardware!
 
