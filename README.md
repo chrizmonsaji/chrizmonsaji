@@ -16,6 +16,7 @@
 [![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)](https://aws.amazon.com)
 [![Discord](https://img.shields.io/badge/Discord-%40chriz__3656-5865F2?logo=discord&logoColor=white)](https://discord.com/users/chriz__3656)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://youtube.com/@chrizmonsaji)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chris_Mon_Saji-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chris-mon-saji-)
 
 > “Stay curious, keep building, and protect what you create.”
 
@@ -112,7 +113,7 @@ Let’s collaborate, share knowledge, or just geek out over Linux and low-level 
 🔗 **Sky Tech & Crafts**: [discord.gg/d2NDkmbYPp](https://discord.gg/d2NDkmbYPp)  
 📸 **Instagram**: [@chriz__3656](https://www.instagram.com/chriz__3656?igsh=NTk4cWFsaDdzaHNj)  
 📺 **YouTube**: [@chrizmonsaji](https://youtube.com/@chrizmonsaji)  
-💼 **LinkedIn**: [in/chrizmonsaji](https://linkedin.com/in/chrizmonsaji)
+💼 **LinkedIn**: [Chris Mon Saji](https://www.linkedin.com/in/chris-mon-saji-)
 
 ---
 
