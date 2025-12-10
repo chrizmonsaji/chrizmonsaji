@@ -98,7 +98,7 @@ I founded **[Sky Tech & Crafts](https://discord.gg/d2NDkmbYPp)** — a Discord c
 | **Languages**   | `Python`, `JavaScript`, `Bash`, `HTML/CSS` |
 | **Security**    | `Nmap`, `Wireshark`, `John the Ripper`, `Metasploit (labs)`, `DigiSpark` |
 | **Hardware**    | `ATtiny85`, `DigiSpark`, USB HID experiments |
-| **Cloud**       | `Oracle Cloud (OCI)`, `AWS`, `IAM`, `VPC/VCN` |
+| **Cloud**       | `Oracle Cloud (OCI)`, `AWS`,  |
 | **Web Dev**     | `Vanilla JS`, `Node.js`, `PWA`, `Cloudflare Pages` |
 | **OS**          | `Linux Lite` (daily driver), `WSL` |
 
@@ -112,7 +112,7 @@ Let’s collaborate, share knowledge, or just geek out over Linux and low-level 
 🎮 **Discord**: [@chriz__3656](https://discord.com/users/chriz__3656)  
 🔗 **Sky Tech & Crafts**: [discord.gg/d2NDkmbYPp](https://discord.gg/d2NDkmbYPp)  
 📸 **Instagram**: [@chriz__3656](https://www.instagram.com/chriz__3656?igsh=NTk4cWFsaDdzaHNj)  
-📺 **YouTube**: [@chrizmonsaji](https://youtube.com/@chrizmonsaji)  
+📺 **YouTube**:
 💼 **LinkedIn**: [Chris Mon Saji](https://www.linkedin.com/in/chris-mon-saji-)
 
 ---
