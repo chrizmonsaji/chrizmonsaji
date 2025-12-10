@@ -1,11 +1,12 @@
 <!-- 
-  ✨ TERMINAL-STYLE TYPING ANIMATION (Working SVG)
+  ✨ TERMINAL-STYLE TYPING ANIMATION
   Generated via: https://readme-typing-svg.demolab.com
 -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=600&lines=Welcome+to+MISTER+CHRIS%27s+Digital+Realm;Ethical+Hacker+%7C+Linux+Enthusiast;Cloud+Builder+%7C+Community+Leader;Stay+Curious.+Build+Securely.+Defend+Relentlessly." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=600&lines=Welcome+to+MISTER+CHRIS%27s+Digital+Realm;Cyber+Security+Student+%7C+Ethical+Hacker;Linux+Enthusiast+%7C+Cloud+Builder;Stay+Curious.+Build+Securely.+Defend+Relentlessly." alt="Typing SVG" />
 
-# 👋 Hey there, I'm MISTER CHRIS  
-### 🎓 Cyber Forensics & Cyber Security Student (2025–2028)
+# 👋 Hey, I'm **MISTER CHRIS**
+### 🎓 Cyber Forensics & Cyber Security Student (2025–2028)  
+🔐 Ethical Hacking | ☁️ Cloud Security | 🐧 Linux | 🌐 Web & Game Dev
 
 [![Linux](https://img.shields.io/badge/OS-Linux_Lite-0078D7?logo=linux&logoColor=white)](https://www.linuxliteos.com/)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://python.org)
@@ -18,9 +19,20 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://youtube.com/@chrizmonsaji)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Chris_Mon_Saji-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chris-mon-saji-)
 
-> “Stay curious, keep building, and protect what you create.”
+> **"Stay curious. Build securely. Defend relentlessly."**
 
-I’m a hands-on builder who believes **security starts with understanding**. Whether I’m scripting automation tools, hardening cloud environments, or teaching others in my community — I blend curiosity with responsibility.
+I’m a **hands-on cybersecurity student & builder** focused on ethical hacking, Linux systems, cloud security, web apps, and automation. I follow a strict **learn-by-building** mindset — every concept I learn, I implement in real projects.
+
+---
+
+## 🧠 Core Focus Areas
+
+- ✅ Ethical Hacking & Digital Forensics  
+- ✅ Linux Administration & Security Hardening  
+- ✅ Cloud Computing & IAM Security  
+- ✅ Web Application Development  
+- ✅ Automation, Scripting & CLI Tools  
+- ✅ Game Development & Minecraft Systems  
 
 ---
 
@@ -28,61 +40,82 @@ I’m a hands-on builder who believes **security starts with understanding**. Wh
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,python,bash,linux,aws,oracle)](https://skillicons.dev)
 
-- **Full-Stack Web Dev**: Frontend (HTML/CSS/JS) + Backend (Node.js, REST APIs)
-- **Cloud Security**: Securing OCI & AWS with IAM, VPCs, and encrypted storage
-- **Digital Forensics**: Memory & disk analysis using Volatility and Autopsy
-- **PWA Development**: Building offline-first, installable web apps
+- **Full-Stack Web Development** – HTML, CSS, JS, Node.js, REST APIs  
+- **Cloud Security** – OCI & AWS IAM, VPCs, Encryption  
+- **Digital Forensics** – Memory & disk analysis (Volatility, Autopsy)  
+- **Progressive Web Apps (PWA)** – Offline-first web applications  
+- **Networking Fundamentals** – TCP/IP, DNS, Firewalls  
 
 ---
 
 ## 🔍 Ethical Hacking & Security Projects
 
 ### 🔐 DigiSpark (ATtiny85) Brute-Force Tool  
-A hardware-based educational project using the **DigiSpark microcontroller** to simulate USB keyboard input for authorized password strength testing. Built with C++ and Digispark libraries.
+Hardware-based educational project using the **DigiSpark microcontroller** to simulate USB HID keyboard input for **authorized password strength testing**.  
+**Tech:** C++, DigiSpark Libraries
 
 ### 🛡️ Linux Defense Scripts  
-Custom Bash & Python tools for:
+Custom **Bash & Python security automation tools** for:
 - File integrity monitoring  
 - Log anomaly detection  
-- Automated system hardening on Linux Lite
+- Automated system hardening  
 
 ### 📡 Network & Forensics Labs  
-Practicing ethical reconnaissance, traffic analysis (Wireshark), and memory forensics in isolated environments.
+Hands-on labs with:
+- Ethical reconnaissance  
+- Traffic analysis using Wireshark  
+- Memory forensics  
+- Isolated attack & defense simulations  
 
 > 🧪 *CTF write-ups coming soon!*  
-> ▶️ [Watch my labs on YouTube](https://youtube.com/@chrizmonsaji)
+> ▶️ Watch my labs on YouTube: https://youtube.com/@chrizmonsaji
 
 ---
 
-## 🚀 Current Projects
+## 🚀 Featured Projects
 
-### 📅 [College Timetable PWA](https://timetable-6zd.pages.dev/)  
-A lightweight, **offline-capable Progressive Web App** for students.  
-✅ Installable on mobile/desktop  
-✅ Works without internet  
-✅ Built with vanilla HTML, CSS, and JavaScript  
+### 📅 College Timetable PWA  
+🔗 https://timetable-6zd.pages.dev/  
+A lightweight **offline-first Progressive Web App** for students.
+
+- ✅ Installable on any device  
+- ✅ Fully offline after first load  
+- ✅ Built with pure HTML, CSS & JavaScript  
+
+---
 
 ### 🏰 Sky Realms SMP  
-A modded **Minecraft Bedrock** community server featuring custom anti-cheat logic, player analytics, and automated moderation.
+A **Minecraft Bedrock community server** with:
+- Custom anti-cheat logic  
+- Automated moderation  
+- Player analytics  
+- Secure command systems  
+
+---
 
 ### ☁️ Cloud Security Labs  
-Deploying and securing infrastructure on **Oracle Cloud** and **AWS**, with focus on least-privilege access and encrypted data flows.
+Hands-on deployments on **Oracle Cloud & AWS** with:
+- Least-privilege IAM  
+- Secure networking  
+- Encrypted storage  
+- Server hardening  
 
 ---
 
-## 🌐 Community Building
+## 🌐 Community & Leadership
 
-I founded **[Sky Tech & Crafts](https://discord.gg/d2NDkmbYPp)** — a Discord community for students and builders passionate about:
-- Cybersecurity & ethical hacking  
-- Linux & open-source tools  
-- Cloud computing & automation  
-- Minecraft modding & hardware tinkering  
+Founder of **Sky Tech & Crafts** — a Discord-based technical community focused on:
 
-👉 **Join us**: [discord.gg/d2NDkmbYPp](https://discord.gg/d2NDkmbYPp)
+- 🔐 Cybersecurity & Ethical Hacking  
+- 🐧 Linux & Open Source  
+- ☁️ Cloud & Automation  
+- 🎮 Minecraft Modding & Hardware Tinkering  
+
+👉 Join the Community: https://discord.gg/d2NDkmbYPp
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Performance
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chrizmonsaji&show_icons=true&theme=dark&count_private=true&include_all_commits=true" />
@@ -91,29 +124,27 @@ I founded **[Sky Tech & Crafts](https://discord.gg/d2NDkmbYPp)** — a Discord c
 
 ---
 
-## 🧠 Tech Stack
+## 🧰 Tech Stack
 
-| Category        | Tools & Technologies |
-|-----------------|----------------------|
-| **Languages**   | `Python`, `JavaScript`, `Bash`, `HTML/CSS` |
-| **Security**    | `Nmap`, `Wireshark`, `John the Ripper`, `Metasploit (labs)`, `DigiSpark` |
-| **Hardware**    | `ATtiny85`, `DigiSpark`, USB HID experiments |
-| **Cloud**       | `Oracle Cloud (OCI)`, `AWS`,  |
-| **Web Dev**     | `Vanilla JS`, `Node.js`, `PWA`, `Cloudflare Pages` |
-| **OS**          | `Linux Lite` (daily driver), `WSL` |
+| Category | Tools |
+|----------|-------|
+| **Languages** | Python, JavaScript, Bash, HTML, CSS |
+| **Security** | Nmap, Wireshark, John the Ripper, Metasploit (Labs) |
+| **Hardware** | ATtiny85, DigiSpark |
+| **Cloud** | Oracle Cloud (OCI), AWS |
+| **Web Dev** | Node.js, PWA, REST APIs, Cloudflare Pages |
+| **OS** | Linux Lite (Daily Driver), WSL |
 
 ---
 
 ## 📬 Connect With Me
 
-Let’s collaborate, share knowledge, or just geek out over Linux and low-level hardware!
-
-📧 **Email**: [chrizmonsaji@gmail.com](mailto:chrizmonsaji@gmail.com)  
-🎮 **Discord**: [@chriz__3656](https://discord.com/users/chriz__3656)  
-🔗 **Sky Tech & Crafts**: [discord.gg/d2NDkmbYPp](https://discord.gg/d2NDkmbYPp)  
-📸 **Instagram**: [@chriz__3656](https://www.instagram.com/chriz__3656?igsh=NTk4cWFsaDdzaHNj)  
-📺 **YouTube**:
-💼 **LinkedIn**: [Chris Mon Saji](https://www.linkedin.com/in/chris-mon-saji-)
+📧 Email: chrizmonsaji@gmail.com  
+🎮 Discord: @chriz__3656  
+🔗 Sky Tech & Crafts: https://discord.gg/d2NDkmbYPp  
+📸 Instagram: https://www.instagram.com/chriz__3656  
+📺 YouTube: https://youtube.com/@chrizmonsaji  
+💼 LinkedIn: https://www.linkedin.com/in/chris-mon-saji-  
 
 ---
 
