@@ -90,6 +90,7 @@ A **Minecraft Bedrock community server** with:
 - Automated moderation  
 - Player analytics  
 - Secure command systems  
+- join now on our Minecraft community [SKY REALM SMP](https://discord.gg/A4b6zfTseb)
 
 ---
 
@@ -99,8 +100,6 @@ Hands-on deployments on **Oracle Cloud & AWS** with:
 - Secure networking  
 - Encrypted storage  
 - Server hardening  
-
----
 
 ## 🌐 Community & Leadership
 
